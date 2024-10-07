@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './Wedding.webp';
+import logo from './newbride.jpg';
 import { motion } from 'framer-motion';
 
 const Logo = () => {
